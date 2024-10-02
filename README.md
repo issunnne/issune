@@ -10,7 +10,7 @@
  <a href="https://github.com/issunnne/issunne.git">Source Code</a> 
 
  Clicker Games
-<a href="spacebarclicker.html">Source Code</a> 
+<a href="spacebarclicker.html">Spacebar Clicker</a> 
  
  [![SandGame](sandgame.png)](sandgame.html)
  
