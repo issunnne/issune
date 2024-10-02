@@ -13,7 +13,7 @@
 <a href="spacebarclicker.html">Spacebar Clicker</a> 
 
 Stragedy Games
-<a href="spacebarclicker.html">Stick Man Hook</a> 
+<a href="stickmanhook.html">Stick Man Hook</a> 
 
 
 
