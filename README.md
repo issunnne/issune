@@ -9,8 +9,8 @@
 <p>A "source" game website, made by issunne.</p>
  <a href="https://github.com/issunnne/issunne.git">Source Code</a> 
 
- 
-[![SpacebarClicker](spacebarclicker.png)](spacebarclicker.html)
+ Clicker Games
+<a href="spacebarclicker.html">Source Code</a> 
  
  [![SandGame](sandgame.png)](sandgame.html)
  
