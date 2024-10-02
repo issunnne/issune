@@ -3,8 +3,11 @@
   body {
  
 }
-background: #FFEBEE
+
  <head> <title></title> 
+
+background: #FFEBEE
+  
 </head>
  <body>
  <h1>Welcome to issunne.site!</h1> 
