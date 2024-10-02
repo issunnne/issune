@@ -11,10 +11,12 @@
 
  Clicker Games
 <a href="spacebarclicker.html">Spacebar Clicker</a> 
+
+Stragedy Games
+<a href="spacebarclicker.html">Stick Man Hook</a> 
+
  
- [![SandGame](sandgame.png)](sandgame.html)
- 
-[![AltText](ImageLink)](redirectlink)
+
   
  </body>
  </html>
