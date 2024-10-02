@@ -11,8 +11,8 @@
 
  <a href="spacebarclicker.html"> Spacebar Clicker</a>
 
- <a href="sandgame.html"> Sand Game</a>
- <a href="sandgame.html"> class="button">Sand Game</a>
+ 
+ [![SandGame](sandgame.png)](sandgame.html)
   <a href="about:blank"> launch in about blank</a>
 
   
