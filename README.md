@@ -1,10 +1,10 @@
 <!DOCTYPE html>
  <html>
   body {
- background: #FFEBEE
+ background-color: #FFEBEE
 }
 
- <head> <title></title> 
+ <head> <title>"issunne.fun"</title> 
 
 
   
