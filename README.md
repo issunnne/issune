@@ -1,12 +1,12 @@
 <!DOCTYPE html>
  <html>
   body {
- 
+ background: #FFEBEE
 }
 
  <head> <title></title> 
 
-background: #FFEBEE
+
   
 </head>
  <body>
