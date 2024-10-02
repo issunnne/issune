@@ -1,5 +1,8 @@
 <!DOCTYPE html>
  <html>
+  body {
+ background: #FFEBEE
+}
  <head> <title></title> 
 </head>
  <body>
