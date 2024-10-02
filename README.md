@@ -11,7 +11,7 @@
 
  <a href="spacebarclicker.html"> Spacebar Clicker</a>
 
- <a href="spacebarclicker.html"> Sand Game</a>
+ <a href="sandgame.html"> Sand Game</a>
 
   <a href="about:blank"> launch in about blank</a>
 
