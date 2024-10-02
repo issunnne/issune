@@ -15,6 +15,10 @@
 Stragedy Games
 <a href="stickmanhook.html">Stick Man Hook</a> 
 
+Misc
+<a href="calculator.html">Calculator</a> 
+
+
 
 
  
