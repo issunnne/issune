@@ -17,6 +17,8 @@ Stragedy Games
 
 Other
 <a href="calculator.html">Calculator</a> 
+<a href="stickmanhook.html"> <img src="stickmanhook.png"> </a>
+
 
 </div>
 
