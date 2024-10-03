@@ -5,11 +5,11 @@
 
 
  <body>
- Welcome to issunne.site!
+ <div <span style="float:right"></div>Welcome to issunne.site!<br/> 
 <p>A "source" game website, made by issunne.</p>
  <a href="https://github.com/issunnne/issunne.git">Source Code</a> 
 
- <p align="center"> Clicker Games </p>
+ <p align="top"> Clicker Games </p>
 <a href="spacebarclicker.html">Spacebar Clicker</a> 
 
 Stragedy Games
@@ -17,6 +17,8 @@ Stragedy Games
 
 Other
 <a href="calculator.html">Calculator</a> 
+
+</div>
 
 
 
