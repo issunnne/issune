@@ -5,7 +5,7 @@
 
 
  <body>
- <div <span style="float:right"></div>Welcome to issunne.site!<br/> 
+ <div <span style="float:middle"></div>Welcome to issunne.site!<br/> 
 <p>A "source" game website, made by issunne.</p>
  <a href="https://github.com/issunnne/issunne.git">Source Code</a> 
 
