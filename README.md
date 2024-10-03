@@ -9,7 +9,7 @@
 <p>A "source" game website, made by issunne.</p>
  <a href="https://github.com/issunnne/issunne.git">Source Code</a> 
 
- Clicker Games
+ <p align="center"> Clicker Games </p>
 <a href="spacebarclicker.html">Spacebar Clicker</a> 
 
 Stragedy Games
